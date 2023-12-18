@@ -1,0 +1,51 @@
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\bin\Debug\net6.0\Pustok.Business.deps.json
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\bin\Debug\net6.0\Pustok.Business.dll
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\bin\Debug\net6.0\Pustok.Business.pdb
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\bin\Debug\net6.0\Pustok.Core.dll
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\bin\Debug\net6.0\Pustok.Data.dll
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\bin\Debug\net6.0\Pustok.Data.pdb
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\bin\Debug\net6.0\Pustok.Core.pdb
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.AssemblyInfo.cs
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.csproj.CopyComplete
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.dll
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\refint\Pustok.Business.dll
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.pdb
+C:\Users\hp\Desktop\Yeni qovluq\src\Pustok.Business\obj\Debug\net6.0\ref\Pustok.Business.dll
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Business.deps.json
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Business.dll
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Business.pdb
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Core.dll
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Data.dll
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Data.pdb
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Core.pdb
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.AssemblyInfo.cs
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.csproj.CopyComplete
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.dll
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\refint\Pustok.Business.dll
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.pdb
+C:\Users\hp\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\ref\Pustok.Business.dll
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Business.deps.json
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Business.dll
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Business.pdb
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Core.dll
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Data.dll
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Data.pdb
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\bin\Debug\net6.0\Pustok.Core.pdb
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.csproj.CopyComplete
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.dll
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\refint\Pustok.Business.dll
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\Pustok.Business.pdb
+C:\Users\II novbe\Desktop\pustokbskt\src\Pustok.Business\obj\Debug\net6.0\ref\Pustok.Business.dll
