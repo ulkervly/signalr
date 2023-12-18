@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\pustokbskt\\src\\Pustok.Core\\Pustok.Core.csproj": {}
+    "C:\\Users\\II novbe\\Desktop\\signalr\\src\\Pustok.Core\\Pustok.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\pustokbskt\\src\\Pustok.Core\\Pustok.Core.csproj": {
+    "C:\\Users\\II novbe\\Desktop\\signalr\\src\\Pustok.Core\\Pustok.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\pustokbskt\\src\\Pustok.Core\\Pustok.Core.csproj",
+        "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\signalr\\src\\Pustok.Core\\Pustok.Core.csproj",
         "projectName": "Pustok.Core",
-        "projectPath": "C:\\Users\\hp\\Desktop\\pustokbskt\\src\\Pustok.Core\\Pustok.Core.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\pustokbskt\\src\\Pustok.Core\\obj\\",
+        "projectPath": "C:\\Users\\II novbe\\Desktop\\signalr\\src\\Pustok.Core\\Pustok.Core.csproj",
+        "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\II novbe\\Desktop\\signalr\\src\\Pustok.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
